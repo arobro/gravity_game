@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=itemTex
+comment0.target=Item(org.jsfml.graphics.Texture)
+comment1.params=
+comment1.target=boolean\ isEnabled()
+comment2.params=
+comment2.target=org.jsfml.graphics.Sprite\ getSprite()
+comment3.params=enabled
+comment3.target=void\ enabled(boolean)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+numComments=6

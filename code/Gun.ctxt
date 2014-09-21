@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=map\ pixelDestroy\ bulletTexID\ speed
+comment0.target=Gun(Map,\ boolean,\ java.lang.String,\ int)
+comment1.params=direction\ posX\ posY
+comment1.target=void\ fireBullet(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ Proccess()
+comment3.params=bulletNo
+comment3.target=boolean\ getBulletSpaceEnabled(int)
+comment4.params=bulletNo
+comment4.target=org.jsfml.graphics.Sprite\ getSprite(int)
+numComments=5

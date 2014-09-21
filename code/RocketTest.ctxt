@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RocketTest()
+comment0.text=Default\ constructor\ for\ test\ class\ RocketTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\ Sets\ up\ the\ test\ fixture\r\nCalled\ before\ every\ test\ case\ method.
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\ Tears\ down\ the\ test\ fixture.\r\nCalled\ after\ every\ test\ case\ method.
+comment3.params=
+comment3.target=void\ rocketPosition()
+numComments=4

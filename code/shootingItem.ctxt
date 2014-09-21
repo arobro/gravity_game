@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=itemTex\ map
+comment0.target=shootingItem(org.jsfml.graphics.Texture,\ Map)
+comment1.params=
+comment1.target=void\ Process()
+comment2.params=gunNo
+comment2.target=Gun\ getGun(int)
+numComments=3

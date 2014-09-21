@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=rockets\ map\ VMode
+comment0.target=Camera(java.util.HashMap,\ Map,\ org.jsfml.window.VideoMode)
+comment1.params=
+comment1.target=void\ follow()
+numComments=2

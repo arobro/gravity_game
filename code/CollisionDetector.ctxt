@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ register(Collisionable)
+comment1.params=c
+comment1.target=void\ update(Collisionable)
+numComments=2

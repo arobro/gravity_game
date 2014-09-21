@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Game()
+comment2.params=
+comment2.target=void\ rmiMultiplayerStart()
+comment3.params=rocketID
+comment3.target=void\ start(int)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ renderRockets()
+comment6.params=
+comment6.target=void\ renderItems()
+comment7.params=x\ y\ direction\ bulletPress\ gravity
+comment7.target=java.util.HashMap\ rocketRmiSync(int,\ int,\ int,\ boolean,\ boolean)
+numComments=8
